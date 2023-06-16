@@ -1,1 +1,1 @@
-# fairways-php
+# fairways payroll system using PHP as backend
